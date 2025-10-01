@@ -21,7 +21,7 @@ I enjoy working mostly on the **frontend** with JavaScript, learning TypeScript 
 On the design side, I’ve got a background in **UX and digital design**, which helps me bridge the gap between design and development.  
 
 Some of the tools and frameworks you’ll often see me use:  
-- React & TypeScript  
+- React 
 - Node.js & Express  
 - HTML, CSS, and a sprinkle of design magic 🎨  
 - Git & GitHub for version control  
