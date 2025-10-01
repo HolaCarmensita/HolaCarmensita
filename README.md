@@ -29,4 +29,14 @@ Some of the tools and frameworks you’ll often see me use:
 
 I’m always curious to try new tools, but these are the ones that feel like home right now. 🚀
 
+---
 
+## 🌟 Fun Facts / Personal Passions
+
+- 📚 I love **learning by building and reading** — plan to tackle small projects as soon as this bootcamp i'm on is done 🤓 
+- The perfect coding environment = complete silence… right after a good run 🏃‍♀️💻  
+- I believe in writing clean, maintainable code and always improving  
+- I love climbing, running and eat to much candy 
+
+
+Thank you for stopping by my GitHub! Chao! 😊  
