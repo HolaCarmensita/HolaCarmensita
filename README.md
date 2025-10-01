@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I’m Casandra (a.k.a. Carmencita)
 
-<!--
-**HolaCarmensita/HolaCarmensita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I’m a passionate developer based in Eskilstuna, Sweden, on a journey to build, learn, and hopefully soon share something useful. 💡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 About Me
+
+- 🔭 I’m currently working on frontend / full-stack projects using JavaScript, TypeScript, React, and related tools  
+- 🌱 I’m learning backend development, APIs, and more deployment / DevOps practices  
+- 💬 Ask me about anything — I love chatting about code or work on creative side-projects  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/casandra-gustafsson/)]  
+
